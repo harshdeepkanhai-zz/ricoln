@@ -5,3 +5,43 @@
 #col{
   color: rgb(107, 33, 224)
 }
+
+/*--banner start here--*/
+.banner {
+    background: rgb(255, 255, 255)no-repeat;
+    min-height:725px;
+    background-size: cover;
+}
+.banner-main {
+    padding-top:10em;
+    text-align: center;
+}
+.banner-main h1 {
+    font-size:3.5em;
+    color: #fff;
+    margin-top: 1em;
+    font-family: 'Oswald', sans-serif;
+}
+span.bann-line {
+    background: #fff;
+    height: 1px;
+    width: 100px;
+    display: block;
+    margin:1.5em auto 1.5em;
+}
+.banner-main p {
+    font-size: 1.05em;
+    color: #fff;
+    width: 50%;
+    margin: 0 auto;
+    line-height: 1.8em;
+}
+span.mover {
+    background: url(../images/arrows.png)no-repeat;
+    width: 22px;
+    height: 32px;
+    display:inline-block;
+    margin: 8em auto 0em;
+    cursor: pointer;
+}
+/*-banner end here--*/
