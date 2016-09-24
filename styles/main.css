@@ -52,4 +52,8 @@ span.mover {
   margin-top: 3em;
   padding: 2em;
 }
+.btn{
+  background-color: rgb(107, 33, 224);
+  color: rgb(255, 255, 255)
+}
 /*-banner end here--*/
